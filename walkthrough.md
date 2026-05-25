@@ -18,7 +18,7 @@ All code artifacts and visual assets have been successfully created:
 1. **Hardened Terraform Config**: [main.tf](file:///home/thinkpalm/git-projects/training/mlops/main.tf)
 2. **AI Prompt Document & Diff**: [prompt_doc.md](file:///home/thinkpalm/git-projects/training/mlops/prompt_doc.md)
 3. **MLOps Telemetry Monitor**: [model_monitor.py](file:///home/thinkpalm/git-projects/training/mlops/model_monitor.py)
-4. **Console Output Screenshot**: [console_screenshot.png](file:///home/thinkpalm/git-projects/training/mlops/console_screenshot.png)
+4. **Console Output Screenshot**: [console_screenshot.png](https://github.com/sachinsooraj/thinkpalm-agentai-sachinsooraj-IaC-MLOps-/blob/main/console_screenshot.png)
 
 ---
 
